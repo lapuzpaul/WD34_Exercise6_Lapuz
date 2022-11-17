@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&family=Poiret+One&display=swap');
+body{
+    background: url("Snow.gif");
+    padding: 50px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Bahnschrift;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.ContactMe{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+    color: black;
+    width: 40%;
+}
+.ContactMedes{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+}
+.ContactMedes2{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+}
+.ContactMedes3{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+}
+.ContactMedes4{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+}
+.Contactjpg{
+    border-radius: 150%;
+    width: 20%;
+    padding: 2%;
+}
+.SocMed{
+    font-family: Bahnschrift;
+    color: blue;
+    width: 40%;
+}
+.SocMedhead{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+    color: black;
+    width: 40%;
+}
+.Comment{
+    font-family: 'Cabin Sketch', cursive;
+    color: black;
+}
+.Submitbtn{
+    background-color: #CCCC00;
+    color: black;
+    font-family: Bahnschrift;
+    padding: 16px;
+    font-size: 18px;
+    border: none;
+}

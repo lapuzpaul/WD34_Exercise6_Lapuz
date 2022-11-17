@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&family=Poiret+One&display=swap');
+body{
+    background: url("Snow.gif");
+    padding: 50px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Bahnschrift;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.Spots{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+.ParkinSky{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.ParkinSkydes{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.ParkintheSkyjpg{
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+
+.ViewTaalhead{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.ViewTaaldes{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.ViewTaaldes2{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+    
+}
+.ViewTaaldes3{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.ViewTaaldes4{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.ViewofTaaljpg{
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.PicnicGrovehead{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.PicnicGrovedes{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.PicnicGrovedes2{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.PicnicGrovedes3{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.PicnicGrovejpg{
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.Ziplinehead{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.Ziplinedes{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.Ziplinedes2{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.Ziplinedes3{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.Ziplinejpg{
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.SkyRanchhead{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.SkyRanchdes{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.SkyRanchdes2{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.SkyRanchdes3{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.SkyRanchjpg{
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.MahoganyMarkethead{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.MahoganyMarketdes{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.MahoganyMarketdes2{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.MahoganyMarketdes3{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.MahoganyMarketdes4{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.Mahoganyjpg{
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 50%;
+    margin-right: 10%;
+}
+.Bulalohead{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.Bulalodes{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.Bulalodes2{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.Bulalodes3{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.Bulalodes4{
+    font-family: Bahnschrift;
+    color: black;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.BulaloCollagejpg{
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 50%;
+}
